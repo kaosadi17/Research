@@ -1,0 +1,6 @@
+<DT><NN><NN> <NN><RP> <VB><DT><NN> <WP><VBD> <VB><WP><VBD>
+<WDT><DT><JJ><NN> <NN><WRB> <VB><DT><NN> <WDT><DT><NN><NNS> <JJ><JJ><NN><VBG>
+<WRB><DT> <NN><NN> <VB><WRB> <NN><VB> <NN><NN>
+<WP><DT><NN> <VB><DT><NN> <NN><IN> <WDT><MD><DT><NN> <VB><DT><NN><NN>
+<NN><NN> <WP><DT><NN> <VB><DT><NN> <VB><NN> <VB><DT><JJ><NN>
+<JJ><JJ><NN><NN> <NN><NN> <JJ><NN><NN> <VBD><DT><NN><NN><NN> <JJ><JJ><NN>
